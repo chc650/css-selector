@@ -1,0 +1,57 @@
+
+*{
+    font-family:sans-serif;
+    background-color: black;
+    
+}
+
+h1{
+    color: beige;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.maincontent{
+    border: 1vmin solid gold;
+}
+
+div > p, .green{
+    background-color:green;
+    text-align: center;
+}
+
+
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.width img{
+    width: 500px;
+}
+p:hover{
+    background-color: yellow;
+}
+
+.plus + div{
+   text-align: center;
+    background-color: red;
+
+    
+}
+
+    
+.flex a:visited{
+    background-color: blue;
+    color: bisque;
+    
+}
+
+
+
